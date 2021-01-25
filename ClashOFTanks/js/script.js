@@ -35,7 +35,7 @@ function slider() {
 
     var active = $(".content").attr("data-active");
 
-    $.getJSON("taldea.json", function(json) {
+    $.getJSON("https://b1n4r1.github.io/clash-of-tanks/ClashOFTanks/js/taldea.json", function(json) {
         
         var taldekideak = json.taldekideak;
 
