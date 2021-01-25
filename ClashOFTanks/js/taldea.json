@@ -1,0 +1,30 @@
+{
+    "taldekideak": {
+
+        "1": {
+            "name": "Jon Ramos",
+            "job": "Frontend Developer",
+            "image": "images/about-us/jon.png",
+            "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim."
+        },
+        "2": {
+            "name": "Lander Agirregomezcorta",
+            "job": "Frontend Developer",
+            "image": "images/about-us/lander.jpg",
+            "desc": "Lander Agirregomezkorta Belinchon Mondragon Unibertsitateko informatikako graduko ikaslea da. Oso gustoko du kirola egitea, bere bizitzaren zehar hainbat kirol desberdin praktikatu ditu. Denbora librean kirola egiteaz gain asko gustatzen zaio lagunekin haritzea."
+        },
+        "3": {
+            "name": "Oier Yaniz",
+            "job": "Frontend Developer",
+            "image": "images/about-us/oier.jpg",
+            "desc": "Oier Yaniz Ortigosa Mondragon Unibertsitateko informatikako graduko ikaslea da. Azken bost urteetan, dronen munduan murgilduta egon da, eta ondorio moduan, argazki eta bideoarekin hasi zen. Bere beste zaletasun bat, hegazkingintza da. Konkretuki, hegazkineri argazkiak ateratzea, spotting moduan ezagutzen dena. "
+        },
+        "4": {
+            "name": "Gorka Fernandez",
+            "job": "Frontend Developer",
+            "image": "images/about-us/gorka.jpg",
+            "desc": "Gorka Fernandez Fernandez Mondragon Unibertsitateko informatikako graduko ikaslea da. Azken urteetan saskibaloian aritu da. Horrez gain, beste zaletasun batzuk ere ditu,hala nola, drona, bizikleta. Gainera txakurrarekin egotea du gustoko."
+        }
+
+    }
+}
