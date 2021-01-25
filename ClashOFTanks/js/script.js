@@ -35,7 +35,7 @@ function slider() {
 
     var active = $(".content").attr("data-active");
 
-    $.getJSON("../taldea.json", function(json) {
+    $.getJSON("taldea.json", function(json) {
         
         var taldekideak = json.taldekideak;
 
